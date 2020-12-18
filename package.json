@@ -1,0 +1,32 @@
+{
+  "name": "smsapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaibhavmore11/SMS_App.git"
+  },
+  "keywords": [
+    "sending",
+    "sms",
+    "javascript",
+    "twilio"
+  ],
+  "author": "Vaibhav More",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaibhavmore11/SMS_App/issues"
+  },
+  "homepage": "https://github.com/vaibhavmore11/SMS_App#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.6",
+    "twilio": "^3.54.1"
+  }
+}
