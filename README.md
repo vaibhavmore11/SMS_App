@@ -2,7 +2,7 @@
 
 ## Local Installation
 
-Copy `.env.example` to `.env` and update it with your [Twilio](https://twilio.com) credentials.
+Please update `.env` and update it with your [Twilio](https://twilio.com) credentials.
 
 ## Running the application
 
